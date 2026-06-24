@@ -1,119 +1,218 @@
-# 🚀 Muhammed Idris — AI Developer, Builder, & Innovator
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FF41&center=false&vCenter=true&width=700&lines=Hey%2C+I'm+Muhammed+Idris+Bin+Yacoob;AI+Engineer+%7C+Agent+Builder;Creator+of+OpenClio;Building+the+Future+with+AI" />
 
-Welcome to my GitHub! This is the central hub of **all my work**, projects, experiments, and ideas across AI, automation, full-stack development, game dev, and beyond.
+```bash
+$ whoami
 
-> **"Code. Create. Conquer."** – My personal mantra as I build towards a smarter world.
+Muhammed Idris Bin Yacoob
 
----
+AI Engineer
+Agent Builder
+Data Engineer
+Open Source Contributor
 
-## 📌 Highlights
-
-Here’s a glimpse of some featured projects:
-
-| 💡 Project | ⚙️ Tech Stack | 🌐 Link |
-|-----------|--------------|---------|
-| 🧠 **TradingAI** – Smart Forex Bot | Python, Pandas, AI Models | [View](https://github.com/yourusername/TradingAI) |
-| 🕹 **Temporal Echoes** – Game with AI Guidance | UE5, Python, GPT API | [View](https://github.com/yourusername/TemporalEchoes) |
-| 🧾 **ZubaidaCaterers Website** – Business Portfolio | React, Tailwind, Next.js | [View](https://github.com/yourusername/zubaida-website) |
-| 📊 **Billing Suite** – Cross-Platform Accounting App | Electron, React Native, Node.js | [View](https://github.com/yourusername/BillingSuite) |
-| 🤖 **MCP AI Agent** – Automate Anything | DeepSeek, Cursor IDE, Node.js | [View](https://github.com/yourusername/MCP-Agent) |
+Building intelligent systems, autonomous agents,
+data platforms, and AI products that solve real-world problems.
+```
 
 ---
 
-## 🧰 Tools & Technologies
+# 🖥️ OPENCLIO SYSTEM STATUS
 
-### 🚀 Languages, Frameworks & Libraries
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-### 🤖 AI / ML / DL / NLP
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-A50000?style=for-the-badge&logo=openai&logoColor=white)
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    OPENCLIO COMMAND CENTER                   ║
+╠══════════════════════════════════════════════════════════════╣
+║ STATUS              : ONLINE                                 ║
+║ LOCATION            : Chennai, India                         ║
+║ CURRENT FOCUS       : Agentic AI Systems                     ║
+║ PRIMARY LANGUAGE    : GO                                     ║
+║ SECONDARY LANGUAGE  : TypeScript                             ║
+║ OPEN SOURCE MODE    : ENABLED                                ║
+║ COFFEE LEVEL        : CRITICAL                               ║
+║ BUILD MODE          : ALWAYS                                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### 🧪 Dev Tools & Platforms
+## $ current_projects
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=green)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+```bash
+> openclio
 
----
+Open-source AI workspace for agents, workflows,
+knowledge systems, tool orchestration and automation.
 
-### 🎮 Game & Creative Tools
+Status: ACTIVE DEVELOPMENT
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+> university-intelligence-platform
 
-## 📂 Repositories
+Large-scale data extraction and automation platform
+supporting 50+ university ecosystems.
 
-Browse through the folders in this repo to explore:
+Status: PRODUCTION
 
-- `ai-models/` – Custom models, fine-tuning, research
-- `automation-scripts/` – Task automation agents
-- `web-projects/` – Websites, portals, and UIs
-- `game-dev/` – Game projects, scenes, AI systems
-- `presentations/` – Business plans, pitch decks
-- `tools-and-snippets/` – Handy tools, templates, CLI scripts
 
----
+> mcp-agent-framework
 
-## 📈 Stats & Activity
+Multi-agent workflow automation framework with
+tool calling and autonomous execution.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
+Status: ACTIVE
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
----
+> ai-travel-concierge
 
-## 🙋‍♂️ Who Am I?
+Agentic travel assistant capable of itinerary planning,
+recommendations and customer engagement.
 
-I'm **Muhammed Idris**, a full-stack dev and AI enthusiast from India, blending creativity with code. I build intelligent tools, scalable platforms, and AI-driven systems — and I'm just getting started.
+Status: BUILDING
 
-### 🧠 I love:
-- AI agents that solve real-world problems
-- Tools that empower businesses
-- Coding interfaces that feel like magic
-- Tinkering with automation & bots
+
+> tradingai
+
+AI-assisted financial intelligence and analysis platform.
+
+Status: RESEARCH
+```
 
 ---
 
-## 📫 Let's Connect
+## $ tech_stack
 
-- 📸 [Instagram](https://instagram.com/muhammed_idris_)
-- 🐦 [Twitter/X](https://twitter.com/muhammed_idris_)
-- 📬 Drop me an email: [muhammedidris@gmail.com](mailto:muhammedidris@gmail.com)
+```yaml
+AI:
+  - OpenAI
+  - DeepSeek
+  - HuggingFace
+  - LangChain
+  - LangGraph
+  - PyTorch
+  - TensorFlow
+  - RAG
+  - MCP
+  - Multi-Agent Systems
+
+Backend:
+  - Python
+  - FastAPI
+  - Node.js
+  - NestJS
+  - Express
+
+Frontend:
+  - React
+  - Next.js
+  - React Native
+  - TypeScript
+  - TailwindCSS
+
+Data:
+  - Scrapy
+  - Playwright
+  - ETL Pipelines
+  - Data Engineering
+  - Automation
+
+Infrastructure:
+  - Docker
+  - AWS
+  - Azure
+  - Linux
+  - GitHub Actions
+```
 
 ---
 
-## ⭐ Show Some Love
+## $ achievements
 
-If any of my work helped you, give it a ⭐ or consider [buying me a coffee](https://buymeacoffee.com/idrisdev). Your support motivates me to keep building!
+```text
+✓ Built OpenClio
+
+✓ Developed AI-powered automation systems
+
+✓ Built agentic workflows using MCP concepts
+
+✓ Created large-scale scraping pipelines
+
+✓ Automated data collection across 50+ universities
+
+✓ Built AI chatbots and business automation tools
+
+✓ Production experience with AI and data engineering
+
+✓ Open-source contributor and builder
+```
 
 ---
 
-> _“The best way to predict the future is to create it.”_ – Let's build it together.
+## $ mission
+
+```python
+class MuhammedIdris:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.goal = "Build intelligent systems"
+
+    def life(self):
+        while True:
+            learn()
+            build()
+            improve()
+            share()
+```
+
+---
+
+## $ github_stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedidris004&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedidris004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedidris004&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedidris004&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedidris004&theme=tokyonight" />
+</p>
+---
+
+## $ currently_learning
+
+```bash
+> Advanced Agent Architectures
+
+> Long-Term AI Memory Systems
+
+> Autonomous Software Engineering
+
+> Distributed Multi-Agent Coordination
+
+> LLM Infrastructure
+```
+
+---
+
+## $ contact
+
+```bash
+email      : muhammedidris@gmail.com
+linkedin   : linkedin.com/in/muhammed-idris-bin-yacoob-16703788
+github     : github.com/muhammedidris004
+```
+
+---
+
+```bash
+$ final_message
+
+Building AI that doesn't just answer questions.
+
+Building AI that gets things done.
+```
